@@ -1,0 +1,10 @@
+.footer-playground {
+        position: absolute;
+        bottom: 0;
+        width: 100vw;
+        .item {
+            max-height: 45px;
+            border-left: none;
+            border: none !important;
+        }
+}
