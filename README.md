@@ -1,5 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Flow + React 16.8
+This project was created by Ilyes Abd-Lillah for Inovans Dev. Team (c) 2019
 
+## Documentation
 ## Available Scripts
 
 In the project directory, you can run:
