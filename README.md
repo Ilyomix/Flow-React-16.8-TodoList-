@@ -2,7 +2,6 @@
 This project was created by Ilyes Abd-Lillah for Inovans Dev. Team (c) 2019
 
 ## Documentation
-## Available Scripts
 
 In the project directory, you can run:
 
